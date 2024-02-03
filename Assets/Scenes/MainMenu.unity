@@ -4075,6 +4075,7 @@ MonoBehaviour:
   - {fileID: 2056737323}
   - {fileID: 1850548304}
   - {fileID: 2110986251}
+  - {fileID: 406810116}
   buttonscripts:
   - {fileID: 1125426583}
   - {fileID: 1970325990}
@@ -4084,6 +4085,7 @@ MonoBehaviour:
   - {fileID: 2056737322}
   - {fileID: 1850548303}
   - {fileID: 2110986250}
+  - {fileID: 406810115}
   leftarrow: {fileID: 1096076016}
   righarrow: {fileID: 588884767}
   startButtons: {fileID: 1204931652}
